@@ -1,0 +1,2 @@
+todo service bauen der über alle kategorien rennt und pro kategorie die
+ produkte abfragt und eine map erstellt die kategorie und produkttype beinhaltet ausgiebt
